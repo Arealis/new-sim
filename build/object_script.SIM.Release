@@ -1,0 +1,13 @@
+release/createdocument.o
+release/editcompanyinfo.o
+release/global.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/userlogin.o
+release/sha256.o
+release/moc_createdocument.o
+release/moc_editcompanyinfo.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_userlogin.o

@@ -1,0 +1,13 @@
+debug/createdocument.o
+debug/editcompanyinfo.o
+debug/global.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/userlogin.o
+debug/sha256.o
+debug/moc_createdocument.o
+debug/moc_editcompanyinfo.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_userlogin.o
